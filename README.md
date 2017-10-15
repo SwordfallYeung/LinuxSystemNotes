@@ -11,5 +11,6 @@ http://blog.csdn.net/u013894834/article/details/60357071 <br/>
 sublime-text-3:<br/>
 http://www.cnblogs.com/GNblog/p/7216432.html <br/>
 http://www.jianshu.com/p/bf05fb3a4709<br/>
+http://jingyan.baidu.com/article/f3ad7d0ff8731609c3345b3b.html <br/>
 
 
