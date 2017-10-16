@@ -18,5 +18,6 @@ linux安卓模拟器genymotion:<br/>
 http://blog.csdn.net/qq_25978793/article/details/49923579<br/>
 genymotion API:<br/>
 http://www.cnblogs.com/rainboy2010/p/6387770.html<br/>
-
+apk安装不了的问题:<br/>
+http://blog.csdn.net/u012399175/article/details/54020032<br/>
 
