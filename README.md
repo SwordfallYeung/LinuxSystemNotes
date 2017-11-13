@@ -25,3 +25,11 @@ Ubuntu 电驴,磁力,迅雷下载<br/>
 http://www.cnblogs.com/asmer-stone/p/5207591.html<br/>
 http链接下载<br/>
 http://blog.csdn.net/xiaohouye/article/details/54603198<br/>
+<br/>
+linux 查看内存：<br/>
+free -m 内存以MB的形式显示<br/>
+https://www.cnblogs.com/rosesmall/archive/2012/05/08/2490522.html<br/>
+<br/>
+linux 查看磁盘空间:<br/>
+df -k 磁盘以KB的形式显示；df -m 磁盘以MB的形式显示； df -h 磁盘以GB的形式显示<br/>
+https://www.cnblogs.com/findumars/p/5509279.html<br/>
