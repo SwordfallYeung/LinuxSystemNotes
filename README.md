@@ -48,3 +48,6 @@ http://www.zdfans.com/5928.html<br/>
 <br/>
 linux下卸载vmware:<br/>
 http://blog.csdn.net/allenlinrui/article/details/7269980<br/>
+<br/>
+linux下VMware下载<br/>
+https://www.ithome.com/html/soft/328014.htm<br/>
