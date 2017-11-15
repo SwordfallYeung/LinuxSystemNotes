@@ -39,3 +39,6 @@ https://jingyan.baidu.com/article/cb5d610514498e005c2fe00b.html<br/>
 <br/>
 linux下设置path，多个软件路径相连:<br/>
 http://blog.csdn.net/witsmakemen/article/details/7831631<br/>
+<br/>
+Linux下命令修改ip地址:<br/>
+https://jingyan.baidu.com/article/ca2d939d2cf1aceb6c31ce0a.html<br/>
