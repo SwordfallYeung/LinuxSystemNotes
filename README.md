@@ -33,3 +33,6 @@ https://www.cnblogs.com/rosesmall/archive/2012/05/08/2490522.html<br/>
 linux 查看磁盘空间:<br/>
 df -k 磁盘以KB的形式显示；df -m 磁盘以MB的形式显示； df -h 磁盘以GB的形式显示<br/>
 https://www.cnblogs.com/findumars/p/5509279.html<br/>
+<br/>
+修改登录用户密码:<br/>
+https://jingyan.baidu.com/article/cb5d610514498e005c2fe00b.html<br/>
