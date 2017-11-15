@@ -36,3 +36,6 @@ https://www.cnblogs.com/findumars/p/5509279.html<br/>
 <br/>
 修改登录用户密码:<br/>
 https://jingyan.baidu.com/article/cb5d610514498e005c2fe00b.html<br/>
+<br/>
+linux下设置path，多个软件路径相连:<br/>
+http://blog.csdn.net/witsmakemen/article/details/7831631<br/>
