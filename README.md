@@ -51,3 +51,6 @@ http://blog.csdn.net/allenlinrui/article/details/7269980<br/>
 <br/>
 linux下VMware下载<br/>
 https://www.ithome.com/html/soft/328014.htm<br/>
+<br/>
+用户修改权限:<br/>
+https://www.cnblogs.com/blogforly/p/5959210.html<br/>
