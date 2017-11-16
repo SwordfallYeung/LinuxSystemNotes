@@ -60,3 +60,4 @@ https://www.cnblogs.com/blogforly/p/5959210.html<br/>
 <br/>
 解决CentOS7关闭/开启防火墙出现Unit iptables.service failed to load: No such file or directory<br/>
 http://blog.csdn.net/c233728461/article/details/52679558<br/>
+http://www.linuxidc.com/Linux/2015-05/117473.htm<br/>
