@@ -42,6 +42,7 @@ http://blog.csdn.net/witsmakemen/article/details/7831631<br/>
 <br/>
 Linux下命令修改ip地址:<br/>
 https://jingyan.baidu.com/article/ca2d939d2cf1aceb6c31ce0a.html<br/>
+https://jingyan.baidu.com/article/4853e1e5641c771909f72617.html<br/>
 <br/>
 VMware虚拟机:<br/>
 http://www.zdfans.com/5928.html<br/>
