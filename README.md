@@ -57,3 +57,6 @@ https://www.ithome.com/html/soft/328014.htm<br/>
 <br/>
 用户修改权限:<br/>
 https://www.cnblogs.com/blogforly/p/5959210.html<br/>
+<br/>
+解决CentOS7关闭/开启防火墙出现Unit iptables.service failed to load: No such file or directory<br/>
+http://blog.csdn.net/c233728461/article/details/52679558<br/>
