@@ -71,4 +71,7 @@ http://blog.csdn.net/u011388550/article/details/49981703<br/>
 http://shumeipai.nxez.com/2016/09/17/raspberry-pi-set-up-a-wireless-internet-access.html<br/>
 http://blog.csdn.net/caspiansea/article/details/8798986<br/>
 http://blog.csdn.net/xdw1985829/article/details/38817195/<br/>
-
+<br/>
+ubuntu16.04 ssh免密登录设置:<br/>
+应该修改的文件是/etc/ssh/sshd_config,而不是/etc/ssh/ssh_config
+http://blog.csdn.net/u010458114/article/details/70161486
