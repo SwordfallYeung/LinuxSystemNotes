@@ -75,3 +75,8 @@ http://blog.csdn.net/xdw1985829/article/details/38817195/<br/>
 ubuntu16.04 ssh免密登录设置:<br/>
 应该修改的文件是/etc/ssh/sshd_config,而不是/etc/ssh/ssh_config<br/>
 http://blog.csdn.net/u010458114/article/details/70161486<br/>
+<br/>
+在linux下如何显示隐藏文件:<br/>
+http://blog.csdn.net/huoyin/article/details/1646779<br/>
+linux本来没有ll命令,实际上是ls -l的代命令, “ll” 命令实现:<br/>
+http://blog.csdn.net/forlong401/article/details/8364089<br/>
