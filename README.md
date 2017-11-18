@@ -64,3 +64,11 @@ http://www.linuxidc.com/Linux/2015-05/117473.htm<br/>
 <br/>
 Ubuntu16.04下树莓派系统烧录（一）:<br/>
 http://blog.csdn.net/yk150915/article/details/78122987<br/>
+windows10下树莓派系统烧录: <br/>
+http://blog.csdn.net/u011388550/article/details/49981703<br/>
+<br/>
+树莓派无线网卡设置:<br/>
+http://shumeipai.nxez.com/2016/09/17/raspberry-pi-set-up-a-wireless-internet-access.html<br/>
+http://blog.csdn.net/caspiansea/article/details/8798986<br/>
+http://blog.csdn.net/xdw1985829/article/details/38817195/<br/>
+
