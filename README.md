@@ -80,3 +80,8 @@ http://blog.csdn.net/u010458114/article/details/70161486<br/>
 http://blog.csdn.net/huoyin/article/details/1646779<br/>
 linux本来没有ll命令,实际上是ls -l的代命令, “ll” 命令实现:<br/>
 http://blog.csdn.net/forlong401/article/details/8364089<br/>
+<br/>
+Linux的时间和时区设置:<br/>
+http://blog.csdn.net/xinluke/article/details/52182858<br/>
+如何更新linux服务器的系统时间:<br/>
+http://liqingbiao.blog.51cto.com/3044896/1695013/<br/>
