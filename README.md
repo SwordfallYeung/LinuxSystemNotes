@@ -88,3 +88,8 @@ http://liqingbiao.blog.51cto.com/3044896/1695013/<br/>
 <br/>
 Linux软连接---覆盖文件和目录:<br/>
 http://blog.sina.com.cn/s/blog_713542d30102wltn.html<br/>
+<br/>
+树莓派调大linux系统音量（命令行） <br/>
+http://blog.csdn.net/qq_15807167/article/details/53517110<br/>
+在Linux终端命令行下播放音乐的命令<br/>
+http://www.linuxidc.com/Linux/2013-05/85060.htm<br/>
