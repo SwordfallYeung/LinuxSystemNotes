@@ -93,3 +93,6 @@ http://blog.sina.com.cn/s/blog_713542d30102wltn.html<br/>
 http://blog.csdn.net/qq_15807167/article/details/53517110<br/>
 在Linux终端命令行下播放音乐的命令<br/>
 http://www.linuxidc.com/Linux/2013-05/85060.htm<br/>
+<br/>
+wifi热点设置:<br/>
+http://www.linuxidc.com/Linux/2016-07/132883.htm<br/>
