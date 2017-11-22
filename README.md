@@ -96,3 +96,6 @@ http://www.linuxidc.com/Linux/2013-05/85060.htm<br/>
 <br/>
 wifi热点设置:<br/>
 http://www.linuxidc.com/Linux/2016-07/132883.htm<br/>
+<br/>
+centos 密码和用户名的修改（包括四个文件/etc/passwd,/etc/shadow,/etc/group,/etc/gshadow）:<br/>
+https://zhidao.baidu.com/question/263253555.html<br/>
