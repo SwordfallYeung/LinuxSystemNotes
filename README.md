@@ -99,3 +99,6 @@ http://www.linuxidc.com/Linux/2016-07/132883.htm<br/>
 <br/>
 centos 密码和用户名的修改（包括四个文件/etc/passwd,/etc/shadow,/etc/group,/etc/gshadow）:<br/>
 https://zhidao.baidu.com/question/263253555.html<br/>
+<br/>
+解决centos7中使用service iptables stop 显示not loaded，因为Centos7开始默认用的是firewalld，没装iptables：<br/>
+http://blog.csdn.net/peterxiaoq/article/details/72897231<br/>
