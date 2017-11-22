@@ -102,3 +102,5 @@ https://zhidao.baidu.com/question/263253555.html<br/>
 <br/>
 解决centos7中使用service iptables stop 显示not loaded，因为Centos7开始默认用的是firewalld，没装iptables：<br/>
 http://blog.csdn.net/peterxiaoq/article/details/72897231<br/>
+firewall 使用用法:<br/>
+https://www.cnblogs.com/fatt/p/6656262.html<br/>
