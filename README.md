@@ -110,3 +110,5 @@ https://www.cnblogs.com/haochuang/p/7115691.html?utm_source=itdadao&utm_medium=r
 <br/>
 第一个64位系统安装SLES-12-SP2-ARM-X11-raspberrypi3:<br/>
 http://blog.csdn.net/swairf/article/details/53392498<br/>
+http://blog.csdn.net/maoji/article/details/53939289<br/>
+https://www.suse.com/documentation/suse-best-practices/sles-rpi-quick/data/sles-rpi-quick.html<br/>
