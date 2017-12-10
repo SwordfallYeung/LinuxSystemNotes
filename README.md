@@ -107,3 +107,6 @@ https://www.cnblogs.com/fatt/p/6656262.html<br/>
 <br/>
 树莓派3与手机之间蓝牙连接配置记录:<br/>
 https://www.cnblogs.com/haochuang/p/7115691.html?utm_source=itdadao&utm_medium=referral<br/>
+<br/>
+第一个64位系统安装SLES-12-SP2-ARM-X11-raspberrypi3:<br/>
+http://blog.csdn.net/swairf/article/details/53392498<br/>
