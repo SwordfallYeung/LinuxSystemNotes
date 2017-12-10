@@ -104,3 +104,6 @@ https://zhidao.baidu.com/question/263253555.html<br/>
 http://blog.csdn.net/peterxiaoq/article/details/72897231<br/>
 firewall 使用用法:<br/>
 https://www.cnblogs.com/fatt/p/6656262.html<br/>
+<br/>
+树莓派3与手机之间蓝牙连接配置记录:<br/>
+https://www.cnblogs.com/haochuang/p/7115691.html?utm_source=itdadao&utm_medium=referral<br/>
