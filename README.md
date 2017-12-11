@@ -112,3 +112,6 @@ https://www.cnblogs.com/haochuang/p/7115691.html?utm_source=itdadao&utm_medium=r
 http://blog.csdn.net/swairf/article/details/53392498<br/>
 http://blog.csdn.net/maoji/article/details/53939289<br/>
 https://www.suse.com/documentation/suse-best-practices/sles-rpi-quick/data/sles-rpi-quick.html<br/>
+<br/>
+用pc机通过串口(串口即USB-TTL线)连接控制树莓派3:<br/>
+https://www.cnblogs.com/ma6174/archive/2013/04/23/3038626.html<br/>
