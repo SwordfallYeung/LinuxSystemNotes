@@ -115,3 +115,8 @@ https://www.suse.com/documentation/suse-best-practices/sles-rpi-quick/data/sles-
 <br/>
 用pc机通过串口(串口即USB-TTL线)连接控制树莓派3:<br/>
 https://www.cnblogs.com/ma6174/archive/2013/04/23/3038626.html<br/>
+<br/>
+Linux统计文件夹、文件数量的命令：<br/>
+https://www.cnblogs.com/uzipi/p/6100790.html<br/>
+linux下使用 du查看某个文件或目录占用磁盘空间的大小:<br/>
+https://www.cnblogs.com/kobe8/p/3825461.html<br/>
