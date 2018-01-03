@@ -125,4 +125,4 @@ Linux Supervisor的安装与使用入门:<br/>
 https://www.cnblogs.com/Hai--D/p/5820718.html<br/>
 http://blog.csdn.net/binggoogle/article/details/70820966<br/>
 https://www.cnblogs.com/yuzhoushenqi/p/6825204.html<br/>
-上述配置时，需要注意一下，‘；’要分开，不能与配置字符串连在一起<br/>
+上述配置时，需要注意一下，‘；’要用空格符分开，不能与配置字符串连在一起，否则会报错<br/>
