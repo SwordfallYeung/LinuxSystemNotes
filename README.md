@@ -123,3 +123,4 @@ https://www.cnblogs.com/kobe8/p/3825461.html<br/>
 <br/>
 Linux Supervisor的安装与使用入门:<br/>
 https://www.cnblogs.com/Hai--D/p/5820718.html<br/>
+http://blog.csdn.net/binggoogle/article/details/70820966<br/>
