@@ -130,3 +130,6 @@ https://www.cnblogs.com/yuzhoushenqi/p/6825204.html<br/>
 linux 挂载新硬盘：<br/>
 http://blog.csdn.net/zqixiao_09/article/details/51417432<br/>
 http://www.linuxidc.com/Linux/2015-04/115841.htm<br/>
+<br/>
+在etc/yum.repos.d目录配置yum源:<br/>
+https://www.cnblogs.com/mchina/archive/2013/01/04/2842275.html<br/>
