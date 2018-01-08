@@ -121,6 +121,9 @@ https://www.cnblogs.com/uzipi/p/6100790.html<br/>
 linux下使用 du查看某个文件或目录占用磁盘空间的大小:<br/>
 https://www.cnblogs.com/kobe8/p/3825461.html<br/>
 <br/>
+Linux查看物理CPU个数、核数、逻辑CPU个数:<br/>
+https://www.cnblogs.com/emanlee/p/3587571.html<br/>
+<br/>
 Linux Supervisor的安装与使用入门:<br/>
 https://www.cnblogs.com/Hai--D/p/5820718.html<br/>
 http://blog.csdn.net/binggoogle/article/details/70820966<br/>
