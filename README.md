@@ -86,6 +86,8 @@ http://blog.csdn.net/xinluke/article/details/52182858<br/>
 如何更新linux服务器的系统时间:<br/>
 http://www.linuxidc.com/Linux/2017-03/141745.htm<br/>
 https://www.cnblogs.com/hwaggLee/p/5468029.html<br/>
+安装定时crontab任务包：<br/>
+http://blog.csdn.net/wangmj518/article/details/49641375<br/>
 <br/>
 Linux软连接---覆盖文件和目录:<br/>
 http://blog.sina.com.cn/s/blog_713542d30102wltn.html<br/>
