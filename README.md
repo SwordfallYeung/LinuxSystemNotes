@@ -133,3 +133,6 @@ http://www.linuxidc.com/Linux/2015-04/115841.htm<br/>
 <br/>
 在etc/yum.repos.d目录配置yum源:<br/>
 https://www.cnblogs.com/mchina/archive/2013/01/04/2842275.html<br/>
+<br/>
+Linux下/etc/resolv.conf 配置DNS:<br/>
+http://www.linuxidc.com/Linux/2007-09/7645.htm<br/>
