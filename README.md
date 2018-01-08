@@ -85,6 +85,7 @@ Linux的时间和时区设置:<br/>
 http://blog.csdn.net/xinluke/article/details/52182858<br/>
 如何更新linux服务器的系统时间:<br/>
 http://liqingbiao.blog.51cto.com/3044896/1695013/<br/>
+https://www.cnblogs.com/hwaggLee/p/5468029.html<br/>
 <br/>
 Linux软连接---覆盖文件和目录:<br/>
 http://blog.sina.com.cn/s/blog_713542d30102wltn.html<br/>
