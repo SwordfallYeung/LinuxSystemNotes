@@ -142,3 +142,6 @@ https://www.cnblogs.com/mchina/archive/2013/01/04/2842275.html<br/>
 <br/>
 Linux下/etc/resolv.conf 配置DNS:<br/>
 http://www.linuxidc.com/Linux/2007-09/7645.htm<br/>
+<br/>
+linux编译安装时常见缺包的解决方法:<br/>
+https://www.cnblogs.com/sweetXiaoma/p/5855732.html<br/>
