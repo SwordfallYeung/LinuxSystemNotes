@@ -145,3 +145,6 @@ http://www.linuxidc.com/Linux/2007-09/7645.htm<br/>
 <br/>
 linux编译安装时常见缺包的解决方法:<br/>
 https://www.cnblogs.com/sweetXiaoma/p/5855732.html<br/>
+<br/>
+记录在linux的/bin/目录下添加一个带有软连接的命令<br/>
+http://blog.csdn.net/jipingyuan/article/details/39252533<br/>
