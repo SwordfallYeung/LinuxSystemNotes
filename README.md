@@ -148,3 +148,6 @@ https://www.cnblogs.com/sweetXiaoma/p/5855732.html<br/>
 <br/>
 记录在linux的/bin/目录下添加一个带有软连接的命令<br/>
 http://blog.csdn.net/jipingyuan/article/details/39252533<br/>
+<br/>
+linux查看文件记录末尾命令：<br/>
+tail -f /opt/text.log<br/>
