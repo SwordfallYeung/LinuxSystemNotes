@@ -151,3 +151,6 @@ http://blog.csdn.net/jipingyuan/article/details/39252533<br/>
 <br/>
 linux查看文件记录末尾命令：<br/>
 tail -f /opt/text.log<br/>
+<br/>
+Oracle中创建、修改、删除序列<br/>
+https://www.cnblogs.com/nicholas_f/articles/1525585.html<br/>
