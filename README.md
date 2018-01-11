@@ -129,8 +129,8 @@ https://www.cnblogs.com/emanlee/p/3587571.html<br/>
 <br/>
 Linux Supervisor的安装与使用入门:<br/>
 https://www.cnblogs.com/Hai--D/p/5820718.html<br/>
-http://blog.csdn.net/binggoogle/article/details/70820966<br/>
 https://www.cnblogs.com/yuzhoushenqi/p/6825204.html<br/>
+https://www.cnblogs.com/ajianbeyourself/p/5534737.html<br/>
 上述配置时，需要注意一下，‘；’要用空格符分开，不能与配置字符串连在一起，否则会报错<br/>
 <br/>
 linux 挂载新硬盘：<br/>
