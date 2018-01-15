@@ -154,3 +154,6 @@ tail -f /opt/text.log<br/>
 <br/>
 Oracle中创建、修改、删除序列<br/>
 https://www.cnblogs.com/nicholas_f/articles/1525585.html<br/>
+<br/>
+如何查看服务器型号：<br/>
+http://blog.csdn.net/db_bili/article/details/7041110<br/>
