@@ -161,3 +161,13 @@ https://www.cnblogs.com/nicholas_f/articles/1525585.html<br/>
 <br/>
 如何查看服务器型号：<br/>
 http://blog.csdn.net/db_bili/article/details/7041110<br/>
+
+Centos7自带的yum有问题，需要卸载并重装yum:<br/>
+卸载yum命令：rpm -e --nodeps yum<br/>
+重装yum命令：<br/>
+rpm -ivh python-libs-2.7.5-68.el7.x86_64.rpm<br/>
+rpm -ivh python-2.7.5-68.el7.x86_64.rpm<br/>
+rpm -ivh python-iniparse-0.4-9.el7.noarch.rpm<br/>
+rpm -ivh yum-metadata-parser-1.1.4-10.el7.x86_64.rpm<br/>
+rpm -ivh yum-3.4.3-158.el7.centos.noarch.rpm yum-plugin-fastestmirror-1.1.31-45.el7.noarch.rpm<br/>
+参考资料：https://blog.csdn.net/oracle_zsq/article/details/79510993<br/>
