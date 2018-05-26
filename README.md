@@ -171,3 +171,6 @@ rpm -ivh python-iniparse-0.4-9.el7.noarch.rpm<br/>
 rpm -ivh yum-metadata-parser-1.1.4-10.el7.x86_64.rpm<br/>
 rpm -ivh yum-3.4.3-158.el7.centos.noarch.rpm yum-plugin-fastestmirror-1.1.31-45.el7.noarch.rpm<br/>
 参考资料：https://blog.csdn.net/oracle_zsq/article/details/79510993<br/>
+
+centos 7.3 错误设置selinux 导致不能启动 Failed to load SELinux policy. Freezing<br/>
+参考资料：http://www.mamicode.com/info-detail-1847013.html
