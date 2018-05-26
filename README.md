@@ -174,3 +174,6 @@ rpm -ivh yum-3.4.3-158.el7.centos.noarch.rpm yum-plugin-fastestmirror-1.1.31-45.
 
 centos 7.3 错误设置selinux 导致不能启动 Failed to load SELinux policy. Freezing<br/>
 参考资料：http://www.mamicode.com/info-detail-1847013.html
+
+开机自动挂载，修改文件/etc/fstab
+参考资料：https://www.linuxidc.com/Linux/2016-08/134666.htm
