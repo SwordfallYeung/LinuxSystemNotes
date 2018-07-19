@@ -178,5 +178,5 @@ centos 7.3 错误设置selinux 导致不能启动 Failed to load SELinux policy.
 开机自动挂载，centos yum 配置 iso开机自动挂载
 参考资料：https://www.cnblogs.com/aenjon/p/4081794.html
 
-rename 使用正则表达式
-参考资料：http://man.linuxde.net/rename
+rename 没有正则表达式
+
