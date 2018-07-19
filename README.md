@@ -180,3 +180,5 @@ centos 7.3 错误设置selinux 导致不能启动 Failed to load SELinux policy.
 
 rename 没有正则表达式
 
+find返回的多个结果分别赋值给变量
+参考资料：https://zhidao.baidu.com/question/502381951517702724.html
