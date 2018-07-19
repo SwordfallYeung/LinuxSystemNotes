@@ -175,10 +175,12 @@ rpm -ivh yum-3.4.3-158.el7.centos.noarch.rpm yum-plugin-fastestmirror-1.1.31-45.
 centos 7.3 错误设置selinux 导致不能启动 Failed to load SELinux policy. Freezing<br/>
 参考资料：http://www.mamicode.com/info-detail-1847013.html
 
-开机自动挂载，centos yum 配置 iso开机自动挂载
+开机自动挂载，centos yum 配置 iso开机自动挂载<br/>
 参考资料：https://www.cnblogs.com/aenjon/p/4081794.html
 
 rename 没有正则表达式
 
-find返回的多个结果分别赋值给变量
-参考资料：https://zhidao.baidu.com/question/502381951517702724.html
+find返回的多个结果分别赋值给变量、find正则表达式查找文件<br/>
+参考资料：<br/>
+https://zhidao.baidu.com/question/502381951517702724.html<br/>
+https://blog.csdn.net/qq_34685846/article/details/72825587
