@@ -187,3 +187,6 @@ https://blog.csdn.net/qq_34685846/article/details/72825587
 
 字符串判断是否为空 <br/>
 参考资料：https://www.cnblogs.com/cute/archive/2011/08/26/2154137.html
+
+linux去掉注释 <br/>
+参考资料：https://www.cnblogs.com/mark-zhou/p/5976222.html
