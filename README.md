@@ -190,3 +190,6 @@ https://blog.csdn.net/qq_34685846/article/details/72825587
 
 linux去掉注释 <br/>
 参考资料：https://www.cnblogs.com/mark-zhou/p/5976222.html
+
+sed命令给未注释行添加注释<br/>
+参考资料：https://blog.csdn.net/kinger0/article/details/52251847
