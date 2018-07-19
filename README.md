@@ -184,3 +184,6 @@ find返回的多个结果分别赋值给变量、find正则表达式查找文件
 参考资料：<br/>
 https://zhidao.baidu.com/question/502381951517702724.html<br/>
 https://blog.csdn.net/qq_34685846/article/details/72825587
+
+字符串判断是否为空 <br/>
+参考资料：https://www.cnblogs.com/cute/archive/2011/08/26/2154137.html
