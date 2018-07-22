@@ -194,5 +194,11 @@ linux去掉注释 <br/>
 sed命令给未注释行添加注释<br/>
 参考资料：https://blog.csdn.net/kinger0/article/details/52251847
 
-Shell脚步实现ssh免密登录
+Shell脚步实现ssh免密登录<br/>
 参考资料：http://blog.51cto.com/vinsent/1970780
+
+expect 中出现delimited by end-of-file (wanted `EOF')报错：<br/>
+参考资料：https://www.cnblogs.com/30go/p/7423367.html
+
+ expect: command not found <br/>
+参考资料：https://blog.csdn.net/ljchlx/article/details/44221413
