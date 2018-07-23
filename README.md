@@ -208,3 +208,6 @@ linux expect spawn的用法<br/>
 
 Linux三剑客之grep 与 egrep<br/>
 参考资料：https://www.cnblogs.com/maxtgood/p/6155964.html
+
+sed命令操作<br/>
+参考资料：https://blog.csdn.net/hello_hwc/article/details/40118129
