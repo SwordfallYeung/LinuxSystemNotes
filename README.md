@@ -214,3 +214,6 @@ sed命令操作<br/>
 
 pssh小工具<br/>
 参考资料：https://www.cnblogs.com/Dicky-Zhang/p/5988415.html
+
+关于SSH 远程执行命令<br/>
+参考资料：https://www.jb51.net/article/119541.htm
