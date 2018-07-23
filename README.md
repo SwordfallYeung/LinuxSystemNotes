@@ -211,3 +211,6 @@ Linux三剑客之grep 与 egrep<br/>
 
 sed命令操作<br/>
 参考资料：https://blog.csdn.net/hello_hwc/article/details/40118129
+
+pssh小工具<br/>
+参考资料：https://www.cnblogs.com/Dicky-Zhang/p/5988415.html
