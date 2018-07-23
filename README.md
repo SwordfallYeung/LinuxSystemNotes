@@ -205,3 +205,6 @@ expect: command not found <br/>
 
 linux expect spawn的用法<br/>
 参考资料：https://www.cnblogs.com/jason2013/articles/4356352.html
+
+Linux三剑客之grep 与 egrep<br/>
+参考资料：https://www.cnblogs.com/maxtgood/p/6155964.html
