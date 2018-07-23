@@ -220,3 +220,6 @@ pssh小工具<br/>
 
 linux shell远程执行命令<br/>
 参考资料：https://www.cnblogs.com/djoker/p/8342500.html
+
+shell远程执行脚本、传输参数<br/>
+参考资料：https://blog.csdn.net/qq_31573519/article/details/79139536
