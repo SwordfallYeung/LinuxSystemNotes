@@ -217,3 +217,6 @@ pssh小工具<br/>
 
 关于SSH 远程执行命令<br/>
 参考资料：https://www.jb51.net/article/119541.htm
+
+linux shell远程执行命令<br/>
+参考资料：https://www.cnblogs.com/djoker/p/8342500.html
