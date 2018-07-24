@@ -208,6 +208,8 @@ linux expect spawn的用法<br/>
 参考资料：<br/>
 https://blog.csdn.net/tiantao2012/article/details/78287264<br/>
 https://www.cnblogs.com/yxh168/p/9028122.html<br/>
+shell expect自动化创建用户，修改密码<br/>
+参考资料：https://blog.csdn.net/wyl9527/article/details/72831567
 
 Linux三剑客之grep 与 egrep<br/>
 参考资料：https://www.cnblogs.com/maxtgood/p/6155964.html
