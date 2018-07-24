@@ -223,3 +223,6 @@ linux shell远程执行命令<br/>
 
 shell远程执行脚本、传输参数<br/>
 参考资料：https://blog.csdn.net/qq_31573519/article/details/79139536
+
+shell中使用while循环ssh的问题：
+参考资料：https://blog.csdn.net/mgxcool/article/details/47136431
