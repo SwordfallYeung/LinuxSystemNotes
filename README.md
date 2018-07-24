@@ -201,10 +201,11 @@ expect 中出现delimited by end-of-file (wanted 'EOF')报错：<br/>
 参考资料： https://www.cnblogs.com/30go/p/7423367.html
 
 expect: command not found <br/>
-参考资料：https://blog.csdn.net/ljchlx/article/details/44221413
-
+参考资料：https://blog.csdn.net/ljchlx/article/details/44221413<br/>
 linux expect spawn的用法<br/>
-参考资料：https://www.cnblogs.com/jason2013/articles/4356352.html
+参考资料：https://www.cnblogs.com/jason2013/articles/4356352.html<br/>
+在shell中插入expect命令<br/>
+参考资料：https://blog.csdn.net/tiantao2012/article/details/78287264
 
 Linux三剑客之grep 与 egrep<br/>
 参考资料：https://www.cnblogs.com/maxtgood/p/6155964.html
