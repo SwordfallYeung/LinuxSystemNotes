@@ -211,6 +211,17 @@ https://www.cnblogs.com/yxh168/p/9028122.html<br/>
 shell expect自动化创建用户，修改密码<br/>
 参考资料：https://blog.csdn.net/wyl9527/article/details/72831567
 
+shell expect基本命令应用:<br/>
+参考资料：https://www.cnblogs.com/autopenguin/p/5918717.html
+
+interact和expect的一些小问题：<br/>
+参考资料：<br/>
+https://blog.csdn.net/qq_20745901/article/details/54692610<br/>
+报错：Expect script error send: Spawn id exp4 not open while executing<br/>
+参考资料：<br/>
+https://stackoverflow.com/questions/26760913/expect-script-error-send-spawn-id-exp4-not-open-while-executing<br/>
+https://serverfault.com/questions/642129/expect-script-error-send-spawn-id-exp4-not-open-while-executing
+
 Linux三剑客之grep 与 egrep<br/>
 参考资料：https://www.cnblogs.com/maxtgood/p/6155964.html
 
