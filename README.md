@@ -245,3 +245,6 @@ shell远程执行脚本，一次只能执行一个脚步<br/>
 
 shell中使用while循环ssh的问题：
 参考资料：https://blog.csdn.net/mgxcool/article/details/47136431
+
+shell脚本字符串截取的8种方法：<br/>
+参考资料：https://www.cnblogs.com/zwgblog/p/6031256.html
