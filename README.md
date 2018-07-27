@@ -257,3 +257,6 @@ https://yum.dockerproject.org/repo/main/centos/<br/>
 
 find的26个用法，包括name、wholename、maxdepth等：<br/>
 参考资料：http://www.codebelief.com/article/2017/02/26-examples-of-find-command-on-linux/
+
+sed疑难杂症：关于shell变量替换:<br/>
+参考资料：http://hadesmo.com/2015/07/20/sed.html
