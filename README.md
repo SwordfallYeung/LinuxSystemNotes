@@ -254,3 +254,6 @@ centos6.5 安装docker1.7<br/>
 http://www.voidcn.com/article/p-rdhtvvxf-zh.html<br/>
 docker的离线安装包:<br/>
 https://yum.dockerproject.org/repo/main/centos/<br/>
+
+find的26个用法，包括name、wholename、maxdepth等：<br/>
+参考资料：http://www.codebelief.com/article/2017/02/26-examples-of-find-command-on-linux/
