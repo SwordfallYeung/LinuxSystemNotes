@@ -248,3 +248,9 @@ shell中使用while循环ssh的问题：
 
 shell脚本字符串截取的8种方法：<br/>
 参考资料：https://www.cnblogs.com/zwgblog/p/6031256.html
+
+centos6.5 安装docker1.7<br/>
+参考资料：<br/>
+http://www.voidcn.com/article/p-rdhtvvxf-zh.html<br/>
+docker的离线安装包:<br/>
+https://yum.dockerproject.org/repo/main/centos/<br/>
