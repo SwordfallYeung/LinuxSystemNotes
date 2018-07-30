@@ -265,3 +265,6 @@ sed疑难杂症：关于shell变量替换:<br/>
 
 CentOS系统下载：<br/>
 http://man.linuxde.net/download/CentOS
+
+git pull撤销：<br/> 
+https://blog.csdn.net/russle/article/details/52387870
