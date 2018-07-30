@@ -255,6 +255,7 @@ http://www.voidcn.com/article/p-rdhtvvxf-zh.html<br/>
 docker的离线安装包:<br/>
 https://yum.dockerproject.org/repo/main/centos/<br/>
 https://www.cnblogs.com/hdulzt/p/7834312.html<br/>
+http://www.yunweipai.com/archives/20324.html<br/>
 
 find的26个用法，包括name、wholename、maxdepth等：<br/>
 参考资料：http://www.codebelief.com/article/2017/02/26-examples-of-find-command-on-linux/
