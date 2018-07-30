@@ -263,4 +263,5 @@ find的26个用法，包括name、wholename、maxdepth等：<br/>
 sed疑难杂症：关于shell变量替换:<br/>
 参考资料：http://hadesmo.com/2015/07/20/sed.html
 
+CentOS系统下载：<br/>
 http://man.linuxde.net/download/CentOS
