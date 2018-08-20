@@ -268,3 +268,6 @@ http://man.linuxde.net/download/CentOS
 
 git pull撤销：<br/> 
 https://blog.csdn.net/russle/article/details/52387870
+
+Linux登录时/etc/profile、~/.bash_profile等几个文件的加载过程<br/>
+http://skanion.iteye.com/blog/1173302
