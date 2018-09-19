@@ -271,3 +271,6 @@ https://blog.csdn.net/russle/article/details/52387870
 
 Linux登录时/etc/profile、~/.bash_profile等几个文件的加载过程<br/>
 http://skanion.iteye.com/blog/1173302
+
+linux后台执行命令：&和nohup <br/>
+https://blog.csdn.net/liuyanfeier/article/details/62422742
