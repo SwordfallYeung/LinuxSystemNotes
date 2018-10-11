@@ -274,3 +274,6 @@ http://skanion.iteye.com/blog/1173302
 
 linux后台执行命令：&和nohup <br/>
 https://blog.csdn.net/liuyanfeier/article/details/62422742
+
+Linux 查看当前目录及第一级子目录占用空间统计<br/>
+https://blog.csdn.net/u012700515/article/details/79496983
