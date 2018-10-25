@@ -277,3 +277,16 @@ https://blog.csdn.net/liuyanfeier/article/details/62422742
 
 Linux 查看当前目录及第一级子目录占用空间统计<br/>
 https://blog.csdn.net/u012700515/article/details/79496983
+
+Linux下如何查看哪些进程占用的CPU内存资源最多<br/>
+linux下获取占用CPU资源最多的10个进程，可以使用如下命令组合：<br/>
+>ps aux | head -1; ps aux | grep -v PID | sort -rn -k +3 | head<br/>
+linux下获取占用内存资源最多的10个进程，可以使用如下命令组合：<br/>
+ps aux | head -1; ps aux | grep -v PID | sort -rn -k +4 | head<br/>
+
+命令解析：
+>ps aux|head -1<br/>
+ps aux|grep -v PID|sort -rn -k +3|head<br/>
+其中第一句主要是为了获取标题（USER PID %CPU %MEM VSZ RSS TTY STAT START TIME COMMAND）。<br/>
+接下来的grep -v PID是将ps aux命令得到的标题去掉，即grep不包含PID这三个字母组合的行，再将其中结果使用sort排序。<br/>
+sort -rn -k +3该命令中的-rn的r表示是结果倒序排列，n为以数值大小排序，而-k +3则是针对第3列的内容进行排序，再使用head命令获取默认前10行数据。(其中的|表示管道操作)<br/>
