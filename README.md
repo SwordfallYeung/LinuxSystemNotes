@@ -296,3 +296,6 @@ https://www.cnblogs.com/zhoug2020/p/6336453.html
 
 ### linux 查看PID来自哪个程序
 >ll /proc/22994
+
+### free -m 查看吃掉的内存
+https://www.cnblogs.com/zhaoyl/p/4325811.html
