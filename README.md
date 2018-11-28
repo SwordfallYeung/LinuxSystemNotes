@@ -300,3 +300,6 @@ https://www.cnblogs.com/zhoug2020/p/6336453.html
 ### free -m 查看吃掉的内存
 https://www.cnblogs.com/zhaoyl/p/4325811.html<br/>
 https://blog.csdn.net/makang456/article/details/78694120<br/>
+
+### Linux释放内存空间
+https://www.cnblogs.com/freeweb/p/5713513.html
