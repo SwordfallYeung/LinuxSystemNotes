@@ -214,6 +214,9 @@ shell expect自动化创建用户，修改密码<br/>
 shell expect基本命令应用:<br/>
 参考资料：https://www.cnblogs.com/autopenguin/p/5918717.html
 
+expect + 配置文件读取<br/>
+https://blog.csdn.net/qq_36457702/article/details/83068785
+
 interact和expect的一些小问题：<br/>
 参考资料：<br/>
 https://blog.csdn.net/qq_20745901/article/details/54692610<br/>
