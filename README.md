@@ -306,3 +306,6 @@ https://blog.csdn.net/makang456/article/details/78694120<br/>
 
 ### Linux释放内存空间
 https://www.cnblogs.com/freeweb/p/5713513.html
+
+### 修改hostname立即生效
+https://blog.csdn.net/qq_37187976/article/details/79096742
