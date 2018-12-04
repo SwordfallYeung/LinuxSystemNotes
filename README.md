@@ -309,3 +309,8 @@ https://www.cnblogs.com/freeweb/p/5713513.html
 
 ### 修改hostname立即生效
 https://blog.csdn.net/qq_37187976/article/details/79096742
+
+### linux下批量kill多个进程
+>ps -ef|grep php|grep -v grep|cut -c 9-15|xargs kill -9
+
+http://www.cnblogs.com/joshua317/p/9235811.html
