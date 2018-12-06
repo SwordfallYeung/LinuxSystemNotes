@@ -314,3 +314,6 @@ https://blog.csdn.net/qq_37187976/article/details/79096742
 >ps -ef|grep php|grep -v grep|cut -c 9-15|xargs kill -9
 
 http://www.cnblogs.com/joshua317/p/9235811.html
+
+### 磁盘IO查询
+>iostat -x 1
