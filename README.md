@@ -317,3 +317,8 @@ http://www.cnblogs.com/joshua317/p/9235811.html
 
 ### 磁盘IO查询
 >iostat -x 1
+
+### pidstat 监控如CPU，内存、设备IO、任务切换、线程等 / lsof 、 cat /proc/$pid/io
+http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858874.html<br/>
+https://blog.csdn.net/u013066730/article/details/82757209
+
