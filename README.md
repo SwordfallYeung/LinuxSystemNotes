@@ -322,3 +322,6 @@ http://www.cnblogs.com/joshua317/p/9235811.html
 http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858874.html<br/>
 https://blog.csdn.net/u013066730/article/details/82757209
 
+### linux shell split string转数组
+https://xingwang-ye.iteye.com/blog/1059750
+
