@@ -327,3 +327,6 @@ https://xingwang-ye.iteye.com/blog/1059750
 
 ### linux 设置ulimit 永久设置
 https://www.cnblogs.com/yangxuming/p/6965176.html
+
+### linux shell-判断指定文件中是否包含指定的字符串
+https://blog.csdn.net/wncnke/article/details/54847140
