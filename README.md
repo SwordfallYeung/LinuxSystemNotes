@@ -325,3 +325,5 @@ https://blog.csdn.net/u013066730/article/details/82757209
 ### linux shell split string转数组
 https://xingwang-ye.iteye.com/blog/1059750
 
+### linux 设置ulimit 永久设置
+https://www.cnblogs.com/yangxuming/p/6965176.html
