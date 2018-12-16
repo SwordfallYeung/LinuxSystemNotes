@@ -330,3 +330,6 @@ https://www.cnblogs.com/yangxuming/p/6965176.html
 
 ### linux shell-判断指定文件中是否包含指定的字符串
 https://blog.csdn.net/wncnke/article/details/54847140
+
+### linux shell 忽略字符串中大小写比较
+https://blog.csdn.net/Jerry_1126/article/details/83869630
