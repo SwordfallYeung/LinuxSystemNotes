@@ -140,7 +140,9 @@ https://www.cnblogs.com/ajianbeyourself/p/5534737.html<br/>
 linux 挂载新硬盘：<br/>
 http://blog.csdn.net/zqixiao_09/article/details/51417432<br/>
 http://www.linuxidc.com/Linux/2015-04/115841.htm<br/>
-<br/>
+linux vmware扩展磁盘分区：<br/>
+https://blog.csdn.net/liumiaocn/article/details/78877957
+
 在etc/yum.repos.d目录配置yum源:<br/>
 https://www.cnblogs.com/mchina/archive/2013/01/04/2842275.html<br/>
 <br/>
