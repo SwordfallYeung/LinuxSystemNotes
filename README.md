@@ -141,7 +141,11 @@ linux 挂载新硬盘：<br/>
 http://blog.csdn.net/zqixiao_09/article/details/51417432<br/>
 http://www.linuxidc.com/Linux/2015-04/115841.htm<br/>
 linux vmware扩展磁盘分区：<br/>
-https://blog.csdn.net/liumiaocn/article/details/78877957
+https://blog.csdn.net/liumiaocn/article/details/78877957<br/>
+linux 修改磁盘分区名：<br/>
+>/dev/sda3对应/opt目录，先修改为/resource目录<br/>
+umount /dev/sda3<br/>
+mount /dev/sda3 /resource<br/>
 
 在etc/yum.repos.d目录配置yum源:<br/>
 https://www.cnblogs.com/mchina/archive/2013/01/04/2842275.html<br/>
