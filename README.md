@@ -339,3 +339,6 @@ https://blog.csdn.net/wncnke/article/details/54847140
 
 ### linux shell 忽略字符串中大小写比较
 https://blog.csdn.net/Jerry_1126/article/details/83869630
+
+### linux Centos自带的logrotate日志切割工具
+https://www.cnblogs.com/clsn/p/8428257.html
