@@ -342,3 +342,6 @@ https://blog.csdn.net/Jerry_1126/article/details/83869630
 
 ### linux Centos自带的logrotate日志切割工具
 https://www.cnblogs.com/clsn/p/8428257.html
+
+### Linux命令创建文件或修改文件时间 touch
+https://www.cnblogs.com/ay-a/p/7900274.html
