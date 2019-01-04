@@ -357,3 +357,6 @@ http://www.heminjie.com/system/linux/6244.html<br/>
 
 ### Centos系统参数优化
 http://blog.51cto.com/skinglzw/2067018
+
+### linux atime、mtime、ctime的区别及如何降低atime更新
+http://www.qinglin.net/414.html
