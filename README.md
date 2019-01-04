@@ -348,3 +348,9 @@ https://www.cnblogs.com/ay-a/p/7900274.html
 
 ### 用shell脚本监控进程是否存在 不存在则启动的实例
 https://www.cnblogs.com/zdz8207/p/3282352.html
+
+### linux 添加磁盘分区ext4或xfs文件系统
+https://blog.csdn.net/liumiaocn/article/details/78877957<br/>
+https://www.cnblogs.com/ljy2013/p/4620691.html<br/>
+https://www.cnblogs.com/youbiyoufang/p/7607174.html<br/>
+
