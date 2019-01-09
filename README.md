@@ -354,6 +354,7 @@ https://blog.csdn.net/liumiaocn/article/details/78877957<br/>
 https://www.cnblogs.com/ljy2013/p/4620691.html<br/>
 https://www.cnblogs.com/youbiyoufang/p/7607174.html<br/>
 http://www.heminjie.com/system/linux/6244.html<br/>
+https://blog.csdn.net/jc_benben/article/details/78224212<br/>
 
 ### Centos系统参数优化
 http://blog.51cto.com/skinglzw/2067018
