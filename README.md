@@ -350,6 +350,9 @@ https://www.cnblogs.com/ay-a/p/7900274.html
 https://www.cnblogs.com/zdz8207/p/3282352.html
 
 ### linux 添加磁盘分区ext4或xfs文件系统
+>注意：这里存在一个问题
+当mkfs.xfs -f /dev/sdb1或者mke2fs -t ext4 /dev/sdb1格式化磁盘分区时，会导致磁盘分区的UUID发生变化
+
 https://blog.csdn.net/liumiaocn/article/details/78877957<br/>
 https://www.cnblogs.com/ljy2013/p/4620691.html<br/>
 https://www.cnblogs.com/youbiyoufang/p/7607174.html<br/>
@@ -362,3 +365,11 @@ http://blog.51cto.com/skinglzw/2067018
 ### linux atime、mtime、ctime的区别及如何降低atime更新
 http://www.qinglin.net/414.html<br/>
 https://blog.csdn.net/jc_benben/article/details/78224212
+
+### 跳过linux启动后的强制硬盘检测 
+>服务器重启后， 提示sdb1已500多天未进行检查，强制自检。<br/>
+按ctrl+c 取消检查， 输入root密码进入修复模式。<br/>
+根分区只读，需要重挂载根分区。 mount -o remount,rw /<br/>
+然后编辑 /etc/fstab， 找到sdb1 将最后的2修改为0， 重启设备。<br/>
+
+http://blog.sina.com.cn/s/blog_623630d50101ojw4.html
